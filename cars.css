@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://static1.hotcarsimages.com/wordpress/wp-content/uploads/2021/01/Mustang-From-Need-For-Speed-via-Pinterest.jpg);
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+img{
+   width: 80px;
+    height: 80px;
+    margin: 1%;
+    cursor: pointer;
+    transition: 2s;
+}
+img:hover{
+    transform: scale(1.1);
+    transition: 2s;
+}
+div{
+    width: 100px;
+    height: 100px;
+}
+h1{
+    font-size: 80px;
+    color: aliceblue;
+}
+h2{
+    font-size: 48px;
+}
